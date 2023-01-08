@@ -1,0 +1,26 @@
+td{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 70px;
+}
+.row1 td, .row2 td {
+    border-bottom: 4px solid black;
+}
+.column1, .column2{
+    border-right: 4px solid black;
+}
+.table {
+    margin: 60px auto;
+}
+
+h1{
+    color:green ;
+}
+
+
+  
+
+body {
+    background-color: rgb(232, 231, 231);
+}
